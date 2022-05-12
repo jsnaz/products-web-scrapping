@@ -15,7 +15,7 @@ python3 -m venv env
 ```
 **Activate the virtual environment**
 ```
-activate env/bin/activate
+source env/bin/activate
 ```
 **Install Python libraries**
 ```
